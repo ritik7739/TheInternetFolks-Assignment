@@ -15,7 +15,7 @@ These instructions will help you get your project up and running.
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone 
+   git clone  https://github.com/ritik7739/TheInternetFolks-Assignment.git
 
 2. Run the given command to set up the project
    ```bash
